@@ -1,0 +1,4 @@
+This is a line of text|tHIS IS A LINE OF TEXT
+There was nothing so VERY remarkable in that;|tHERE WAS NOTHING SO very REMARKABLE IN THAT;
+nor did Alice think it so VERY much out of|NOR DID aLICE THINK IT SO very MUCH OUT OF
+the way to hear the Rabbit say to itself, 'Oh dear!|THE WAY TO HEAR THE rABBIT SAY TO ITSELF, 'oH DEAR!
